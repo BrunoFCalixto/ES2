@@ -1,2 +1,2 @@
-# ES2
+# ES2N
 Engenharia de Software 2
